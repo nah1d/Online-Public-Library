@@ -27,6 +27,10 @@ The Online Public Library is a web application developed using ASP .NET Core 6 M
 ### Admin Panel
 ![op-5](Images/op-5.png)
 
+### Admin Panel
+![op-6](Images/op-6.png)
+
+
 ## Prerequisites
 - [.NET Core 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
